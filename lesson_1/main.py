@@ -1,3 +1,4 @@
+#Функция проверки слова на полидром
 def if_polidrom(text):
     if text == text[::-1]:
         return True
