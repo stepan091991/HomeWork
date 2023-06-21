@@ -14,3 +14,9 @@ h1 {
     padding-bottom: 60px;
     font-family: 'Courier New', Courier, monospace;
 }
+.paragraph-3{
+font-size:24px;
+font-style: oblique;
+text-align: center;
+text-shadow: red 5px 5px;
+}
